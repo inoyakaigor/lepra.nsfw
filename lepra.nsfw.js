@@ -3,12 +3,15 @@ body {\
   font-family: PT Sans;\
   font-size: 1em;\
 }\
+.c_body {\
+  line-height: 1.5em;\
+}\
 .l-content_main {\
     background: none repeat scroll 0 0 #eee;\
   }\
   div.post img { \
     /*opacity: 0.05;*/ \
-    max–width: 900px;\
+    maxâ€“width: 900px;\
     transition: opacity 0.2s; \
   }\
   div.post img:hover { \
